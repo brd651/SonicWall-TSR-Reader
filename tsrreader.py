@@ -2,7 +2,7 @@
 This script was written and developed by Ben Davis. 
 
 Version: 1.0 
-Email: brd651@gmail.com
+LinkedIn: https://linkedin.com/brd651
 Github:  https://github.com/brd651
 Website: https://www.theoryit.com
 
